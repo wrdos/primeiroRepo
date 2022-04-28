@@ -1,3 +1,6 @@
 # Teste arquivo md
 
-![./strarTrek.png]
+![./strarTrek.png](Star Trek)
+
+![alt text](./strarTrek.png)
+
